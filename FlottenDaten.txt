@@ -1,0 +1,35 @@
+Daten der Flotte: 
+
+Gesamtanzahl der Fahrzeuge:  7
+Gesamtwert aller Fahrzeuge: 231722.14
+Duchschnittsverbrauch aller LKWs: 9.0
+Durchschnittsvebrauch sonstiger Fahrzeuge: 11.25
+
+Alle Fahrzeuge:
+1.Fahrzeug:
+Kennzeichen: KL-123 | Fahrzeugart: LKW | Ort: Kaiserslautern | Anschaffungswert: 20000 | Verbrauch: 8 |
+
+2.Fahrzeug:
+Kennzeichen: ZW-22 | Fahrzeugart: PKW | Ort: Zweibrücken | Anschaffungswert: 70000 | Verbrauch: 15 |
+
+3.Fahrzeug:
+Kennzeichen: KL-133 | Fahrzeugart: PKW | Ort: Kaiserslautern | Anschaffungswert: 50000 | Verbrauch: 10 |
+
+4.Fahrzeug:
+Kennzeichen: ZW-990 | Fahrzeugart: LKW | Ort: Zweibrücken | Anschaffungswert: 50000 | Verbrauch: 10 |
+
+5.Fahrzeug:
+Kennzeichen: KL-133 | Fahrzeugart: Transporter | Ort: Kaiserslautern | Anschaffungswert: 50000 | Verbrauch: 10 |
+
+6.Fahrzeug:
+Kennzeichen: KL-133 | Fahrzeugart: LKW | Ort: Kaiserslautern | Anschaffungswert: 50000 | Verbrauch: 10 |
+
+7.Fahrzeug:
+Kennzeichen: ZW-453 | Fahrzeugart: Transporter | Ort: Zweibrücken | Anschaffungswert: 50000 | Verbrauch: 10 |
+
+
+Gesamtanzahl an Orten: 2
+
+Alle Orte: 
+ID: 1 | Anzeigename: Kaiserslautern | Straße: Foostrasse 1 | Postleitzahl: 66123 | Stadt: Kaiserslautern | 
+ID: 2 | Anzeigename: Zweibrücken | Straße: FooAllee 2 | Postleitzahl: 66666 | Stadt: Zweibrücken | 
